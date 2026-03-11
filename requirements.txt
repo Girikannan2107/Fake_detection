@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+streamlit
+opencv-python
+pillow
+retina-face
+numpy
+tf-keras

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+deepfake_env/
+.env
+.vscode/
+
+# model files
+*.h5
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
